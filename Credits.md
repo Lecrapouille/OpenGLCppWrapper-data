@@ -1,6 +1,6 @@
 # Credits
 
-Resources get from:
+These texture files get from the following links:
 
 ## https://learnopengl.com/
 
@@ -14,3 +14,7 @@ blendMap.png, grassFlowers.png, grassy2.png, mud.png, path.png,
 ## https://www.uni-marburg.de/fb12/en/researchgroups/grafikmultimedia/lectures/graphics
 
 deep_water.png, fields.png, rocks.png, shallow_water.png, shore.png, snow.png
+
+## https://threejsfundamentals.org/threejs/lessons/threejs-transparency.html
+
+tree-01.png, tree-02.png
