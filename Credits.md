@@ -20,3 +20,7 @@ deep_water.png, fields.png, rocks.png, shallow_water.png, shore.png, snow.png
 ## https://threejsfundamentals.org/threejs/lessons/threejs-transparency.html
 
 tree-01.png, tree-02.png
+
+## https://github.com/emargollo/OpenGL-Animator
+
+cowboy.png, cowboy.json
