@@ -24,3 +24,16 @@ tree-01.png, tree-02.png
 ## https://github.com/emargollo/OpenGL-Animator
 
 cowboy.png, cowboy.json
+
+## https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf
+
+Soldier.glb (Mixamo), RobotExpressive.glb (Tomás Laulhé, Quaternius, CC0)
+
+## https://github.com/KhronosGroup/glTF-Sample-Models
+
+Duck.glb (Sony, CC BY 4.0)
+
+## Generated
+
+Shotgun.glb, written by examples/50_Complete/DoomLike/make_shotgun.py of
+OpenGLCppWrapper.
