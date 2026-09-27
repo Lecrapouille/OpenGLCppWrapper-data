@@ -37,3 +37,7 @@ Duck.glb (Sony, CC BY 4.0)
 
 Shotgun.glb, written by examples/50_Complete/DoomLike/make_shotgun.py of
 OpenGLCppWrapper.
+
+## https://github.com/ros-industrial/abb (abb_irb2400_support), via https://github.com/Lecrapouille/Robotik
+
+irb2400.urdf, irb2400/visual/*.stl, irb2400/collision/*.stl (ABB IRB 2400)
